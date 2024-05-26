@@ -166,6 +166,7 @@ cython_debug/
 **/.idea
 **/.vscode
 
+crop_weed_detection.weights
 
 **/.env
 **/.venv
