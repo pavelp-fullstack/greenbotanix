@@ -168,6 +168,7 @@ cython_debug/
 
 crop_weed_detection.weights
 Crop_weed_detection_training
+config.py
 
 **/.env
 **/.venv
